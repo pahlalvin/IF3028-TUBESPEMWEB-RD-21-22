@@ -136,6 +136,7 @@ Pengguna dapat mencari laporan/komentar dengan melakukan search ke `isi laporan/
 4.Jalankan Aplikasi Xampp, aktifkan module Apache dan MySQL
 5.Bukan Browser dan jalankan alamat "localhost/nama_folder"
 6.Selesai.
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Knowledge
 Untuk meringankan beban tugas ini, ada berberapa keyword yang bisa anda cari untuk menyelesaikan tugas ini.
